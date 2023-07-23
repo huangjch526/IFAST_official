@@ -4,4 +4,5 @@ You are currently viewing our IFAST project. We design a new task for face anti-
 
 We have completed an ethical review by an ethics committee to ensure that the open-source dataset does not involve breaking the law. We promise to release all images and labels of our dataset and code online as soon as the paper is accepted. We upload a small proportion of the dataset, which has completed the ethical review process and received informed consent from the subjects.
 
-[Get a small part of our dataset](https://pan.baidu.com)
+[Get a small part of our dataset]([https://pan.baidu.com](https://pan.baidu.com/s/1xjV4stSLTwWNuMVn1cEdOw))
+code：z0id 
