@@ -1,4 +1,4 @@
-## Describe this project
+## Describe our IFAST project
 
 You are currently viewing our IFAST project. We design a new task for face anti-spoofing named disparity-based binocular NIR camera single-shot face anti-spoofing. For this task, we designed a novel method name IFAST and made our own dataset named BNI-FAS, which took me a lot of time, money and effort.
 
