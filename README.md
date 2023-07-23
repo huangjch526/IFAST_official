@@ -6,4 +6,4 @@ We have completed an ethical review by an ethics committee to ensure that the op
 
 [Get a small part of our dataset](https://pan.baidu.com/s/1xjV4stSLTwWNuMVn1cEdOw)
 
-code：z0id 
+You can contact us by email jc.huang@siat.ac.cn to get the extraction code of the above drive.
