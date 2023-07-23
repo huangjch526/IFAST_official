@@ -9,7 +9,7 @@ We have completed an ethical review by an ethics committee to ensure that the op
 You can contact us by email jc.huang@siat.ac.cn to get the extraction code of the above drive.
 
 ## Showing of our dataset!
-![show](./images/create-octocat.png)
+![show](./images/1690085712191.png)
 
 ## Coming soon
 We will release our paper, code and dataset as soon as our paper is accepted.
